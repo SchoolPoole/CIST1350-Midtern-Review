@@ -1,0 +1,11 @@
+## Declaring variable
+hour=float(input("How many hours did you work? "))
+
+payRate=float(input(" How much do you make a hour? "))
+
+## Calcuate 
+gross=payRate*hour
+
+## Display Result
+print("The gross pay is", gross)
+
